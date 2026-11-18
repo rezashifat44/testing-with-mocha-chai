@@ -72,6 +72,10 @@ The suite is a single file, [tests/dmoney.spec.js](tests/dmoney.spec.js). It fol
 
 Roles covered: **Admin, SYSTEM, Customer, Agent, Merchant**.
 
+## Test Cases: 
+<img width="329" height="329" alt="Screenshot 2026-11-19 000508" src="https://github.com/user-attachments/assets/4433a1b1-065b-4064-bc39-5b31ff5120c4" />
+
+
 Endpoints exercised:
 
 - `POST /user/login`
